@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @NandyArnold
 - 👀 I’m interested in ... Web Dev, Physics, Astronomy, Philosophy... science in general !
 - 🌱 I’m currently learning ... Frontend web dev
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
