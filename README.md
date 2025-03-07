@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NandyArnold
-- 👀 I’m interested in ... Web Dev, Physics, Astronomy, Philosophy... science in general !
-- 🌱 I’m currently learning ... Frontend web dev and how to deal with github, vscode and many many many other things T_T 
+- 👀 I’m interested in ... GameDev, Physics, Astronomy, Philosophy... science in general !
+- 🌱 I’m currently learning ... Game Dev using Unity
 - 📫 How to reach me ...
 
 <!---
